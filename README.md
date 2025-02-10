@@ -14,23 +14,23 @@ The material in this repo is licensed under [Creative Commons Attribution 4.0 In
 
 ### 1.  Run the notebook in Noteable
 
-If you are part of the University of Edinburgh you can use [Noteable](https://noteable.edina.ac.uk/) the cloud-based computational notebook system that work on your browser from any device.
+If you are part of the University of Edinburgh you can use [Noteable](https://noteable.edina.ac.uk/) the cloud-based computational notebook system that works on your browser from any device.
 
-To get started:
-
-#### Get the Notebook files for this tutorial
-Download the files listed on the right to a location on your computer
-Make sure you know the location they have been downloaded to (usually your 'Downloads' folder) as you will need to upload them to Noteable. (The filename should end with '.ipynb'. If your computer has appended '.txt' to the end of the file make sure this is removed)
+Getting started:
 
 #### Start Noteable
 1.  Open the following link in a new tab:  [https://noteable.edina.ac.uk/login](https://noteable.edina.ac.uk/login)
 2.  Login with your EASE credentials
 3.  Under 'Standard Notebook' click 'Start'
    
-#### Upload the Notebook to Noteable
-1.  From the Noteable home page, click on the 'Upload' button at the top right of the screen and browse to one of the files you saved earlier to select it.
-2.  Now click the blue 'Upload' button to load it into Noteable
-3.  Once the file has been uploaded, click on the filename to start the Notebook
+#### Import the Repository
+1.  From the Noteable home page, click on the 'Git' button in the top bar
+2.  Now click 'Cone a Repository' button to copy the content of this repository
+3.  Enter the link to this repository [https://github.com/DCS-training/nltk-intro-2025](https://github.com/DCS-training/nltk-intro-2025)
+4.  leave 'Include submodules' checked and 'Download the repository' unchecked
+5.  Click on Clone
+6.  On the left-hand side you can now see a folder named as this repo containing all the material
+7.  Click on it, then on 'Notebooks', and then select the.ipynb file you want to use 
 
 
 ### 2. Run the notebooks via GoogleColab
